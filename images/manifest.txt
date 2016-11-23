@@ -1,0 +1,2 @@
+A manifest of all the image files I will need for this tutorial.
+
